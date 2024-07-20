@@ -1,6 +1,6 @@
 
 
-## **2nd Place Solution for the Tuwaiq : Unlocking Potential for Elite Training Programs**
+## **Predicitng Student Passes :school: :school_satchel:**
 
 
 Link to notebook - https://www.kaggle.com/code/karlcini/2nd-place-solution-tuwaiq-challenge 
