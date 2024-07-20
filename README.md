@@ -1,6 +1,7 @@
 
 
-**2nd Place Solution for the Tuwaiq : Unlocking Potential for Elite Training Programs**
+## **2nd Place Solution for the Tuwaiq : Unlocking Potential for Elite Training Programs**
+
 
 Link to notebook - https://www.kaggle.com/code/karlcini/2nd-place-solution-tuwaiq-challenge 
 
